@@ -1,0 +1,12 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/GateKeeper.API/GateKeeper.API.csproj" />
+    <Project Path="src/GateKeeper.Core/GateKeeper.Core.csproj" />
+    <Project Path="src/GateKeeper.Infrastructure/GateKeeper.Infrastructure.csproj" />
+    <Project Path="src/GateKeeper.Worker/GateKeeper.Worker.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/GateKeeper.IntegrationTests/GateKeeper.IntegrationTests.csproj" />
+    <Project Path="tests/GateKeeper.UnitTests/GateKeeper.UnitTests.csproj" />
+  </Folder>
+</Solution>
